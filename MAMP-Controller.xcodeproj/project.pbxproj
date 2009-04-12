@@ -1,0 +1,387 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		621B3D690F8F969A00A5B518 /* BGHUDAppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 621B3D680F8F969A00A5B518 /* BGHUDAppKit.framework */; };
+		621B3D7A0F8F96BA00A5B518 /* BGHUDAppKit.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 621B3D680F8F969A00A5B518 /* BGHUDAppKit.framework */; };
+		621B3EFF0F8FA84A00A5B518 /* TextActions in Resources */ = {isa = PBXBuildFile; fileRef = 621B3EFD0F8FA84A00A5B518 /* TextActions */; };
+		621B3F090F8FA8F700A5B518 /* TextActions in Copy XML Files */ = {isa = PBXBuildFile; fileRef = 621B3EFD0F8FA84A00A5B518 /* TextActions */; };
+		621B40210F8FBD8700A5B518 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 621B40200F8FBD8700A5B518 /* Growl.framework */; };
+		621B40260F8FBD9400A5B518 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 621B40200F8FBD8700A5B518 /* Growl.framework */; };
+		621B40E20F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */; };
+		8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
+		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
+		98EF1CC80F91A6FC00C83E37 /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 98EF1CC70F91A6FC00C83E37 /* README.markdown */; };
+		98FE2B5C0F90FC0600944D7D /* MAMP-Controller.sugar in Copy to Espresso */ = {isa = PBXBuildFile; fileRef = 8D5B49B6048680CD000E48DA /* MAMP-Controller.sugar */; };
+		98FE2D400F91768500944D7D /* GetPID.c in Sources */ = {isa = PBXBuildFile; fileRef = 98FE2D3E0F91768500944D7D /* GetPID.c */; };
+		98FE2D550F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 98FE2D540F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3D65765F0E991E6E009E9EB8 /* Copy XML Files */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 1;
+			files = (
+				621B3F090F8FA8F700A5B518 /* TextActions in Copy XML Files */,
+			);
+			name = "Copy XML Files";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		621B3D7E0F8F96CF00A5B518 /* Copy Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				621B40260F8FBD9400A5B518 /* Growl.framework in Copy Frameworks */,
+				621B3D7A0F8F96BA00A5B518 /* BGHUDAppKit.framework in Copy Frameworks */,
+			);
+			name = "Copy Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		98FE2BB90F90FC1E00944D7D /* Copy to Espresso */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "~/Library/Application Support/Espresso/Sugars";
+			dstSubfolderSpec = 0;
+			files = (
+				98FE2B5C0F90FC0600944D7D /* MAMP-Controller.sugar in Copy to Espresso */,
+			);
+			name = "Copy to Espresso";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		089C1672FE841209C02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		089C167EFE841241C02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		089C167FFE841241C02AAC07 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		3D657A0A0E9A6763009E9EB8 /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
+		621B3D680F8F969A00A5B518 /* BGHUDAppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BGHUDAppKit.framework; path = Frameworks/BGHUDAppKit.framework; sourceTree = "<group>"; };
+		621B3EFD0F8FA84A00A5B518 /* TextActions */ = {isa = PBXFileReference; lastKnownFileType = folder; path = TextActions; sourceTree = "<group>"; };
+		621B40200F8FBD8700A5B518 /* Growl.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Growl.framework; path = Frameworks/Growl.framework; sourceTree = "<group>"; };
+		621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CSMAMPControllerExecutionAction.h; sourceTree = "<group>"; };
+		621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CSMAMPControllerExecutionAction.m; sourceTree = "<group>"; };
+		8D5B49B6048680CD000E48DA /* MAMP-Controller.sugar */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MAMP-Controller.sugar"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D5B49B7048680CD000E48DA /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98EF1CC70F91A6FC00C83E37 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
+		98FE2D3E0F91768500944D7D /* GetPID.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = GetPID.c; sourceTree = "<group>"; };
+		98FE2D3F0F91768500944D7D /* GetPID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetPID.h; sourceTree = "<group>"; };
+		98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CSMAMPControllerOpenStartPageAction.h; sourceTree = "<group>"; };
+		98FE2D540F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CSMAMPControllerOpenStartPageAction.m; sourceTree = "<group>"; };
+		D2F7E65807B2D6F200F64583 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D5B49B3048680CD000E48DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */,
+				621B3D690F8F969A00A5B518 /* BGHUDAppKit.framework in Frameworks */,
+				621B40210F8FBD8700A5B518 /* Growl.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		089C166AFE841209C02AAC07 /* CSS */ = {
+			isa = PBXGroup;
+			children = (
+				98EF1CC70F91A6FC00C83E37 /* README.markdown */,
+				08FB77AFFE84173DC02AAC07 /* Code */,
+				3D6576110E991DDC009E9EB8 /* XML Based */,
+				089C167CFE841241C02AAC07 /* Resources */,
+				089C1671FE841209C02AAC07 /* Frameworks and Libraries */,
+				19C28FB8FE9D52D311CA2CBB /* Products */,
+			);
+			name = CSS;
+			sourceTree = "<group>";
+		};
+		089C1671FE841209C02AAC07 /* Frameworks and Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7ACFEA557BF11CA2CBB /* Linked Frameworks */,
+				1058C7AEFEA557BF11CA2CBB /* Other Frameworks */,
+			);
+			name = "Frameworks and Libraries";
+			sourceTree = "<group>";
+		};
+		089C167CFE841241C02AAC07 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8D5B49B7048680CD000E48DA /* Info.plist */,
+				089C167DFE841241C02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		08FB77AFFE84173DC02AAC07 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				98FE2D3E0F91768500944D7D /* GetPID.c */,
+				98FE2D3F0F91768500944D7D /* GetPID.h */,
+				3DE0B8B50ED3261600EE948E /* File Actions */,
+				3D657A0A0E9A6763009E9EB8 /* Prefix.pch */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
+		1058C7ACFEA557BF11CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				621B40200F8FBD8700A5B518 /* Growl.framework */,
+				621B3D680F8F969A00A5B518 /* BGHUDAppKit.framework */,
+				1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7AEFEA557BF11CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				089C167FFE841241C02AAC07 /* AppKit.framework */,
+				D2F7E65807B2D6F200F64583 /* CoreData.framework */,
+				089C1672FE841209C02AAC07 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FB8FE9D52D311CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D5B49B6048680CD000E48DA /* MAMP-Controller.sugar */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3D6576110E991DDC009E9EB8 /* XML Based */ = {
+			isa = PBXGroup;
+			children = (
+				621B3EFD0F8FA84A00A5B518 /* TextActions */,
+			);
+			path = "XML Based";
+			sourceTree = "<group>";
+		};
+		3DE0B8B50ED3261600EE948E /* File Actions */ = {
+			isa = PBXGroup;
+			children = (
+				621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */,
+				621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */,
+				98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */,
+				98FE2D540F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.m */,
+			);
+			path = "File Actions";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D5B49AC048680CD000E48DA /* MAMP-Controller Sugar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB913A08733D840010E9CD /* Build configuration list for PBXNativeTarget "MAMP-Controller Sugar" */;
+			buildPhases = (
+				8D5B49AF048680CD000E48DA /* Resources */,
+				8D5B49B1048680CD000E48DA /* Sources */,
+				8D5B49B3048680CD000E48DA /* Frameworks */,
+				3D65765F0E991E6E009E9EB8 /* Copy XML Files */,
+				621B3D7E0F8F96CF00A5B518 /* Copy Frameworks */,
+				98FE2B4A0F90FBB700944D7D /* Remove old sugar */,
+				98FE2BB90F90FC1E00944D7D /* Copy to Espresso */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "MAMP-Controller Sugar";
+			productInstallPath = "$(HOME)/Library/Bundles";
+			productName = CSS;
+			productReference = 8D5B49B6048680CD000E48DA /* MAMP-Controller.sugar */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		089C1669FE841209C02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB913E08733D840010E9CD /* Build configuration list for PBXProject "MAMP-Controller" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 089C166AFE841209C02AAC07 /* CSS */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D5B49AC048680CD000E48DA /* MAMP-Controller Sugar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D5B49AF048680CD000E48DA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */,
+				621B3EFF0F8FA84A00A5B518 /* TextActions in Resources */,
+				98EF1CC80F91A6FC00C83E37 /* README.markdown in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		98FE2B4A0F90FBB700944D7D /* Remove old sugar */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Remove old sugar";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#killall Espresso\n\n#sleep 3\n\n#rm -Rf ~/Library/Application Support/Espresso/Sugars/Basil.sugar\n\n#sleep 3";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D5B49B1048680CD000E48DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				621B40E20F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m in Sources */,
+				98FE2D400F91768500944D7D /* GetPID.c in Sources */,
+				98FE2D550F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C167DFE841241C02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C167EFE841241C02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB913B08733D840010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = /Applications/Espresso.app/Contents/MacOS/Espresso;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../bghudappkit-read-only/build/Release\"",
+					"\"$(SRCROOT)/Frameworks\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Code/Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Bundles";
+				PRODUCT_NAME = "MAMP-Controller";
+				USER_HEADER_SEARCH_PATHS = /Applications/Espresso.app/Contents/Headers;
+				WRAPPER_EXTENSION = sugar;
+			};
+			name = Debug;
+		};
+		1DEB913C08733D840010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = $BUILT_PRODUCTS_DIR/Espresso.app/Contents/MacOS/Espresso;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../bghudappkit-read-only/build/Release\"",
+					"\"$(SRCROOT)/Frameworks\"",
+				);
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Code/XML+HTML_Prefix.pch";
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Bundles";
+				PRODUCT_NAME = "MAMP-Controller";
+				USER_HEADER_SEARCH_PATHS = $BUILT_PRODUCTS_DIR/Espresso.app/Contents/Headers;
+				WRAPPER_EXTENSION = sugar;
+			};
+			name = Release;
+		};
+		1DEB913F08733D840010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				BUNDLE_LOADER = "$(ESPRESSO_PATH)/Contents/MacOS/Espresso";
+				ESPRESSO_PATH = /Applications/Espresso.app;
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(ESPRESSO_PATH)/Contents/Headers";
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		1DEB914008733D840010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				BUNDLE_LOADER = "$(ESPRESSO_PATH)/Contents/MacOS/Espresso";
+				ESPRESSO_PATH = /Applications/Espresso.app;
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_TREAT_WARNINGS_AS_ERRORS = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(ESPRESSO_PATH)/Contents/Headers";
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB913A08733D840010E9CD /* Build configuration list for PBXNativeTarget "MAMP-Controller Sugar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB913B08733D840010E9CD /* Debug */,
+				1DEB913C08733D840010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB913E08733D840010E9CD /* Build configuration list for PBXProject "MAMP-Controller" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB913F08733D840010E9CD /* Debug */,
+				1DEB914008733D840010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 089C1669FE841209C02AAC07 /* Project object */;
+}

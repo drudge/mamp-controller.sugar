@@ -1,0 +1,1209 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 8D5B49AC048680CD000E48DA /* MAMP-Controller Sugar */;
+		addToTargets = (
+			8D5B49AC048680CD000E48DA /* MAMP-Controller Sugar */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 98FE2B0F0F8FF33C00944D7D /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					486,
+					345,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					641,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					594,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 261203685;
+			PBXWorkspaceStateSaveDate = 261203685;
+		};
+		perUserProjectItems = {
+			98FE2B330F90FAD700944D7D = 98FE2B330F90FAD700944D7D /* PBXTextBookmark */;
+			98FE2B350F90FAD700944D7D = 98FE2B350F90FAD700944D7D /* PBXTextBookmark */;
+			98FE2B370F90FAD700944D7D = 98FE2B370F90FAD700944D7D /* PBXTextBookmark */;
+			98FE2C530F91156600944D7D = 98FE2C530F91156600944D7D /* PBXBookmark */;
+			98FE2C5E0F91427800944D7D = 98FE2C5E0F91427800944D7D /* PBXBookmark */;
+			98FE2C5F0F91427800944D7D = 98FE2C5F0F91427800944D7D /* PBXTextBookmark */;
+			98FE2D0E0F91762A00944D7D = 98FE2D0E0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D150F91762A00944D7D = 98FE2D150F91762A00944D7D /* PlistBookmark */;
+			98FE2D160F91762A00944D7D = 98FE2D160F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D180F91762A00944D7D = 98FE2D180F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D1A0F91762A00944D7D = 98FE2D1A0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D1C0F91762A00944D7D = 98FE2D1C0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D1E0F91762A00944D7D = 98FE2D1E0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D200F91762A00944D7D = 98FE2D200F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D220F91762A00944D7D = 98FE2D220F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D230F91762A00944D7D = 98FE2D230F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D250F91762A00944D7D = 98FE2D250F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D260F91762A00944D7D = 98FE2D260F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D270F91762A00944D7D = 98FE2D270F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D280F91762A00944D7D = 98FE2D280F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D290F91762A00944D7D = 98FE2D290F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D2A0F91762A00944D7D = 98FE2D2A0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D2B0F91762A00944D7D = 98FE2D2B0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D2C0F91762A00944D7D = 98FE2D2C0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D2D0F91762A00944D7D = 98FE2D2D0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D2E0F91762A00944D7D = 98FE2D2E0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D2F0F91762A00944D7D = 98FE2D2F0F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D310F91762A00944D7D = 98FE2D310F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D320F91762A00944D7D = 98FE2D320F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D340F91762A00944D7D = 98FE2D340F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D360F91762A00944D7D = 98FE2D360F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D380F91762A00944D7D = 98FE2D380F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D390F91762A00944D7D = 98FE2D390F91762A00944D7D /* PBXTextBookmark */;
+			98FE2D510F9176B700944D7D = 98FE2D510F9176B700944D7D /* PBXTextBookmark */;
+			98FE2D5C0F917D6F00944D7D = 98FE2D5C0F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D5D0F917D6F00944D7D = 98FE2D5D0F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D610F917D6F00944D7D = 98FE2D610F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D660F917D6F00944D7D = 98FE2D660F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D670F917D6F00944D7D = 98FE2D670F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D680F917D6F00944D7D = 98FE2D680F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D690F917D6F00944D7D = 98FE2D690F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D6A0F917D6F00944D7D = 98FE2D6A0F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D6B0F917D6F00944D7D = 98FE2D6B0F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D6C0F917D6F00944D7D = 98FE2D6C0F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D6D0F917D6F00944D7D = 98FE2D6D0F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D6E0F917D6F00944D7D = 98FE2D6E0F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D6F0F917D6F00944D7D = 98FE2D6F0F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D700F917D6F00944D7D = 98FE2D700F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D710F917D6F00944D7D = 98FE2D710F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D720F917D6F00944D7D = 98FE2D720F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D730F917D6F00944D7D = 98FE2D730F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D740F917D6F00944D7D = 98FE2D740F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D750F917D6F00944D7D = 98FE2D750F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D760F917D6F00944D7D = 98FE2D760F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D770F917D6F00944D7D = 98FE2D770F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2D780F917D6F00944D7D = 98FE2D780F917D6F00944D7D /* PBXTextBookmark */;
+			98FE2DC20F91861C00944D7D = 98FE2DC20F91861C00944D7D /* PBXTextBookmark */;
+			98FE2DC30F91861C00944D7D = 98FE2DC30F91861C00944D7D /* PBXTextBookmark */;
+			98FE2DC40F91861C00944D7D = 98FE2DC40F91861C00944D7D /* PBXTextBookmark */;
+			98FE2DC50F91861C00944D7D = 98FE2DC50F91861C00944D7D /* PBXTextBookmark */;
+			98FE2DD00F91863400944D7D = 98FE2DD00F91863400944D7D /* PBXTextBookmark */;
+			98FE2DD10F91863400944D7D = 98FE2DD10F91863400944D7D /* PBXTextBookmark */;
+			98FE2DD20F91863400944D7D = 98FE2DD20F91863400944D7D /* PBXTextBookmark */;
+			98FE2DE70F9189E800944D7D = 98FE2DE70F9189E800944D7D /* PBXTextBookmark */;
+			98FE2DE80F9189E800944D7D = 98FE2DE80F9189E800944D7D /* PBXTextBookmark */;
+			98FE2DE90F9189E800944D7D = 98FE2DE90F9189E800944D7D /* PBXTextBookmark */;
+			98FE2DF70F918A2200944D7D = 98FE2DF70F918A2200944D7D /* PBXTextBookmark */;
+			98FE2DFC0F918AFF00944D7D = 98FE2DFC0F918AFF00944D7D /* PBXTextBookmark */;
+			98FE2E000F918B8E00944D7D = 98FE2E000F918B8E00944D7D /* PBXTextBookmark */;
+			98FE2E010F918B8E00944D7D = 98FE2E010F918B8E00944D7D /* PBXTextBookmark */;
+			98FE2E020F918B8E00944D7D = 98FE2E020F918B8E00944D7D /* PBXTextBookmark */;
+			98FE2E050F918BB000944D7D = 98FE2E050F918BB000944D7D /* PBXTextBookmark */;
+			98FE2E060F918BB000944D7D = 98FE2E060F918BB000944D7D /* PlistBookmark */;
+			98FE2E070F918BB000944D7D = 98FE2E070F918BB000944D7D /* PBXTextBookmark */;
+			98FE2E080F918BB000944D7D = 98FE2E080F918BB000944D7D /* PlistBookmark */;
+			98FE2E0D0F918E5400944D7D = 98FE2E0D0F918E5400944D7D /* PBXTextBookmark */;
+			98FE2E0E0F918E5400944D7D = 98FE2E0E0F918E5400944D7D /* PBXTextBookmark */;
+			98FE2E0F0F918E5400944D7D = 98FE2E0F0F918E5400944D7D /* PBXTextBookmark */;
+			98FE2E100F918E5400944D7D = 98FE2E100F918E5400944D7D /* PBXTextBookmark */;
+			98FE2E9C0F91A63500944D7D = 98FE2E9C0F91A63500944D7D /* PBXTextBookmark */;
+			98FE2E9D0F91A63500944D7D = 98FE2E9D0F91A63500944D7D /* PBXTextBookmark */;
+			98FE2E9E0F91A63500944D7D = 98FE2E9E0F91A63500944D7D /* PBXTextBookmark */;
+			98FE2E9F0F91A63500944D7D = 98FE2E9F0F91A63500944D7D /* PBXTextBookmark */;
+			98FE2EA00F91A63500944D7D = 98FE2EA00F91A63500944D7D /* PBXTextBookmark */;
+			98FE2EA10F91A63500944D7D = 98FE2EA10F91A63500944D7D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 98FE2B0E0F8FF33C00944D7D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {819, 466}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	3D657A0A0E9A6763009E9EB8 /* Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 401}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 127}";
+		};
+	};
+	621B3D250F8F945900A5B518 /* CSBasilSugarLogViewAction.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = CSBasilSugarLogViewAction.h;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Code/File Actions/CSBasilSugarLogViewAction.h";
+		sourceTree = "<absolute>";
+	};
+	621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {819, 466}}";
+			sepNavSelRange = "{260, 41}";
+			sepNavVisRange = "{0, 310}";
+			sepNavWindowFrame = "{{15, 43}, {1388, 830}}";
+		};
+	};
+	621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 1386}}";
+			sepNavSelRange = "{1479, 0}";
+			sepNavVisRange = "{0, 870}";
+		};
+	};
+	8D5B49AC048680CD000E48DA /* MAMP-Controller Sugar */ = {
+		activeExec = 0;
+	};
+	98FE2B0E0F8FF33C00944D7D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	98FE2B0F0F8FF33C00944D7D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	98FE2B330F90FAD700944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSBasilSugarPlanterAction.m: 10";
+		rLen = 21;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 0;
+	};
+	98FE2B350F90FAD700944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B3D250F8F945900A5B518 /* CSBasilSugarLogViewAction.h */;
+		name = "CSBasilSugarLogViewAction.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	98FE2B370F90FAD700944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSBasilSugarPlanterAction.h: 3";
+		rLen = 0;
+		rLoc = 66;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	98FE2C470F9111C500944D7D /* blkStar.tiff */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.tiff;
+		name = blkStar.tiff;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/blkStar.tiff";
+		sourceTree = "<absolute>";
+	};
+	98FE2C530F91156600944D7D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 98FE2C470F9111C500944D7D /* blkStar.tiff */;
+	};
+	98FE2C5E0F91427800944D7D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 98FE2C470F9111C500944D7D /* blkStar.tiff */;
+	};
+	98FE2C5F0F91427800944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B3D250F8F945900A5B518 /* CSBasilSugarLogViewAction.h */;
+		name = "CSBasilSugarLogViewAction.h: 29";
+		rLen = 0;
+		rLoc = 610;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 3;
+	};
+	98FE2D0E0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3D657A0A0E9A6763009E9EB8 /* Prefix.pch */;
+		name = "Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 127;
+		vrLoc = 0;
+	};
+	98FE2D150F91762A00944D7D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	98FE2D160F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	98FE2D180F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D190F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 0;
+	};
+	98FE2D190F91762A00944D7D /* Actions.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Actions.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Actions.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D1A0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D1B0F91762A00944D7D /* Categories.xml */;
+		name = "Categories.xml: 4";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	98FE2D1B0F91762A00944D7D /* Categories.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Categories.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Categories.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D1C0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D1D0F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 31";
+		rLen = 0;
+		rLoc = 1280;
+		rType = 0;
+		vrLen = 1091;
+		vrLoc = 0;
+	};
+	98FE2D1D0F91762A00944D7D /* Actions.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Actions.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Actions.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D1E0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D1F0F91762A00944D7D /* Categories.xml */;
+		name = "Categories.xml: 4";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	98FE2D1F0F91762A00944D7D /* Categories.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Categories.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Categories.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D200F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D210F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 31";
+		rLen = 0;
+		rLoc = 1280;
+		rType = 0;
+		vrLen = 1091;
+		vrLoc = 0;
+	};
+	98FE2D210F91762A00944D7D /* Actions.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Actions.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Actions.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D220F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSBasilSugarPlanterAction.m: 71";
+		rLen = 0;
+		rLoc = 2813;
+		rType = 0;
+		vrLen = 768;
+		vrLoc = 1100;
+	};
+	98FE2D230F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D240F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 4";
+		rLen = 31;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 1091;
+		vrLoc = 0;
+	};
+	98FE2D240F91762A00944D7D /* Actions.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Actions.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Actions.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D250F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 14";
+		rLen = 1;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	98FE2D260F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 71";
+		rLen = 0;
+		rLoc = 2813;
+		rType = 0;
+		vrLen = 768;
+		vrLoc = 1100;
+	};
+	98FE2D270F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3D657A0A0E9A6763009E9EB8 /* Prefix.pch */;
+		name = "Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 127;
+		vrLoc = 0;
+	};
+	98FE2D280F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 60";
+		rLen = 0;
+		rLoc = 2811;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 1129;
+	};
+	98FE2D290F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 6";
+		rLen = 60;
+		rLoc = 113;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	98FE2D2A0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 45";
+		rLen = 0;
+		rLoc = 1817;
+		rType = 0;
+		vrLen = 875;
+		vrLoc = 772;
+	};
+	98FE2D2B0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 13";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 395;
+		vrLoc = 0;
+	};
+	98FE2D2C0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 22";
+		rLen = 0;
+		rLoc = 501;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 3;
+	};
+	98FE2D2D0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 13";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	98FE2D2E0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 23";
+		rLen = 10;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 777;
+		vrLoc = 3;
+	};
+	98FE2D2F0F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D300F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 32";
+		rLen = 0;
+		rLoc = 1245;
+		rType = 0;
+		vrLen = 1008;
+		vrLoc = 0;
+	};
+	98FE2D300F91762A00944D7D /* Actions.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Actions.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Actions.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D310F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 58";
+		rLen = 0;
+		rLoc = 2348;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 1477;
+	};
+	98FE2D320F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D330F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 32";
+		rLen = 0;
+		rLoc = 1245;
+		rType = 0;
+		vrLen = 1008;
+		vrLoc = 0;
+	};
+	98FE2D330F91762A00944D7D /* Actions.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Actions.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Actions.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D340F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D350F91762A00944D7D /* Categories.xml */;
+		name = "Categories.xml: 3";
+		rLen = 5;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	98FE2D350F91762A00944D7D /* Categories.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Categories.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Categories.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D360F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D370F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 30";
+		rLen = 0;
+		rLoc = 1166;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 366;
+	};
+	98FE2D370F91762A00944D7D /* Actions.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Actions.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Actions.xml";
+		sourceTree = "<absolute>";
+	};
+	98FE2D380F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 58";
+		rLen = 0;
+		rLoc = 2348;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 1477;
+	};
+	98FE2D390F91762A00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 13";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	98FE2D3F0F91768500944D7D /* GetPID.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 2408}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1532, 1312}";
+		};
+	};
+	98FE2D4E0F9176AB00944D7D /* GetPID.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = GetPID.c;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Code/GetPID.c";
+		sourceTree = "<absolute>";
+	};
+	98FE2D510F9176B700944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 12";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 782;
+		vrLoc = 0;
+	};
+	98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {819, 466}}";
+			sepNavSelRange = "{299, 0}";
+			sepNavVisRange = "{0, 333}";
+		};
+	};
+	98FE2D540F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 1344}}";
+			sepNavSelRange = "{1610, 0}";
+			sepNavVisRange = "{838, 1023}";
+		};
+	};
+	98FE2D5C0F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D4E0F9176AB00944D7D /* GetPID.c */;
+		name = "GetPID.c: 388";
+		rLen = 0;
+		rLoc = 20757;
+		rType = 0;
+		vrLen = 1230;
+		vrLoc = 19946;
+	};
+	98FE2D5D0F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D3F0F91768500944D7D /* GetPID.h */;
+		name = "GetPID.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1312;
+		vrLoc = 1532;
+	};
+	98FE2D610F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D620F917D6F00944D7D /* NSRange.h */;
+		name = "NSRange.h: 13";
+		rLen = 11;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 0;
+	};
+	98FE2D620F917D6F00944D7D /* NSRange.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSRange.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSRange.h;
+		sourceTree = "<absolute>";
+	};
+	98FE2D660F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D4E0F9176AB00944D7D /* GetPID.c */;
+		name = "GetPID.c: 388";
+		rLen = 0;
+		rLoc = 20757;
+		rType = 0;
+		vrLen = 1230;
+		vrLoc = 19946;
+	};
+	98FE2D670F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 12";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 113;
+	};
+	98FE2D680F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D3F0F91768500944D7D /* GetPID.h */;
+		name = "GetPID.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1312;
+		vrLoc = 1532;
+	};
+	98FE2D690F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 12";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 820;
+		vrLoc = 221;
+	};
+	98FE2D6A0F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D370F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 30";
+		rLen = 0;
+		rLoc = 1166;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 366;
+	};
+	98FE2D6B0F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 12";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 818;
+		vrLoc = 221;
+	};
+	98FE2D6C0F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */;
+		name = "CSMAMPControllerOpenStartPageAction.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	98FE2D6D0F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 100";
+		rLen = 0;
+		rLoc = 2812;
+		rType = 0;
+		vrLen = 514;
+		vrLoc = 2279;
+	};
+	98FE2D6E0F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D370F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 30";
+		rLen = 0;
+		rLoc = 1166;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 366;
+	};
+	98FE2D6F0F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */;
+		name = "CSMAMPControllerOpenStartPageAction.h: 13";
+		rLen = 0;
+		rLoc = 267;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	98FE2D700F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 100";
+		rLen = 0;
+		rLoc = 2812;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 2269;
+	};
+	98FE2D710F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 13";
+		rLen = 41;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	98FE2D720F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */;
+		name = "CSMAMPControllerOpenStartPageAction.h: 13";
+		rLen = 0;
+		rLoc = 282;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	98FE2D730F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 10";
+		rLen = 65;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 782;
+		vrLoc = 0;
+	};
+	98FE2D740F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */;
+		name = "CSMAMPControllerOpenStartPageAction.h: 3";
+		rLen = 0;
+		rLoc = 70;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	98FE2D750F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */;
+		name = "CSMAMPControllerOpenStartPageAction.h: 14";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	98FE2D760F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D540F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 54";
+		rLen = 0;
+		rLoc = 1195;
+		rType = 0;
+		vrLen = 1023;
+		vrLoc = 838;
+	};
+	98FE2D770F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D370F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 30";
+		rLen = 0;
+		rLoc = 1166;
+		rType = 0;
+		vrLen = 1007;
+		vrLoc = 364;
+	};
+	98FE2D780F917D6F00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D1B0F91762A00944D7D /* Categories.xml */;
+		name = "Categories.xml: 3";
+		rLen = 5;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	98FE2D7F0F917D8000944D7D /* CSMAMPControllerOpenStartPageAction.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CSMAMPControllerOpenStartPageAction.m;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Code/File Actions/CSMAMPControllerOpenStartPageAction.m";
+		sourceTree = "<absolute>";
+	};
+	98FE2DC20F91861C00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D7F0F917D8000944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 56";
+		rLen = 0;
+		rLoc = 1195;
+		rType = 0;
+		vrLen = 1414;
+		vrLoc = 835;
+	};
+	98FE2DC30F91861C00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */;
+		name = "CSMAMPControllerOpenStartPageAction.h: 14";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	98FE2DC40F91861C00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D7F0F917D8000944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 63";
+		rLen = 0;
+		rLoc = 2567;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 1028;
+	};
+	98FE2DC50F91861C00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 40";
+		rLen = 518;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 1109;
+		vrLoc = 848;
+	};
+	98FE2DCB0F91862400944D7D /* CSMAMPControllerOpenStartPageAction.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CSMAMPControllerOpenStartPageAction.m;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Code/File Actions/CSMAMPControllerOpenStartPageAction.m";
+		sourceTree = "<absolute>";
+	};
+	98FE2DD00F91863400944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2DCB0F91862400944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 60";
+		rLen = 0;
+		rLoc = 1195;
+		rType = 0;
+		vrLen = 1079;
+		vrLoc = 1516;
+	};
+	98FE2DD10F91863400944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 13";
+		rLen = 41;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	98FE2DD20F91863400944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 12";
+		rLen = 19;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 0;
+	};
+	98FE2DDE0F9188B300944D7D /* CSMAMPControllerOpenStartPageAction.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CSMAMPControllerOpenStartPageAction.m;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Code/File Actions/CSMAMPControllerOpenStartPageAction.m";
+		sourceTree = "<absolute>";
+	};
+	98FE2DE70F9189E800944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2DDE0F9188B300944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 105";
+		rLen = 0;
+		rLoc = 3099;
+		rType = 0;
+		vrLen = 1030;
+		vrLoc = 1725;
+	};
+	98FE2DE80F9189E800944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 12";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 221;
+	};
+	98FE2DE90F9189E800944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2DDE0F9188B300944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 32";
+		rLen = 48;
+		rLoc = 809;
+		rType = 0;
+		vrLen = 876;
+		vrLoc = 0;
+	};
+	98FE2DF30F918A0400944D7D /* CSMAMPControllerOpenStartPageAction.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CSMAMPControllerOpenStartPageAction.m;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Code/File Actions/CSMAMPControllerOpenStartPageAction.m";
+		sourceTree = "<absolute>";
+	};
+	98FE2DF70F918A2200944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 32";
+		rLen = 0;
+		rLoc = 809;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 1981;
+	};
+	98FE2DFC0F918AFF00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2DF30F918A0400944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 74";
+		rLen = 0;
+		rLoc = 2296;
+		rType = 0;
+		vrLen = 1243;
+		vrLoc = 1071;
+	};
+	98FE2E000F918B8E00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */;
+		name = "CSMAMPControllerOpenStartPageAction.h: 14";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	98FE2E010F918B8E00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 51";
+		rLen = 0;
+		rLoc = 1479;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 466;
+	};
+	98FE2E020F918B8E00944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D530F917A6300944D7D /* CSMAMPControllerOpenStartPageAction.h */;
+		name = "CSMAMPControllerOpenStartPageAction.h: 14";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	98FE2E050F918BB000944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2DF30F918A0400944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 91";
+		rLen = 0;
+		rLoc = 2766;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 2314;
+	};
+	98FE2E060F918BB000944D7D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	98FE2E070F918BB000944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2DF30F918A0400944D7D /* CSMAMPControllerOpenStartPageAction.m */;
+		name = "CSMAMPControllerOpenStartPageAction.m: 91";
+		rLen = 0;
+		rLoc = 2766;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 2314;
+	};
+	98FE2E080F918BB000944D7D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	98FE2E0D0F918E5400944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	98FE2E0E0F918E5400944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 13";
+		rLen = 41;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	98FE2E0F0F918E5400944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	98FE2E100F918E5400944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E00F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.h */;
+		name = "CSMAMPControllerExecutionAction.h: 13";
+		rLen = 41;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	98FE2E9C0F91A63500944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 51";
+		rLen = 0;
+		rLoc = 1479;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 0;
+	};
+	98FE2E9D0F91A63500944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D370F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 30";
+		rLen = 0;
+		rLoc = 1166;
+		rType = 0;
+		vrLen = 1103;
+		vrLoc = 268;
+	};
+	98FE2E9E0F91A63500944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D1B0F91762A00944D7D /* Categories.xml */;
+		name = "Categories.xml: 3";
+		rLen = 5;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	98FE2E9F0F91A63500944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 621B40E10F8FC6E200A5B518 /* CSMAMPControllerExecutionAction.m */;
+		name = "CSMAMPControllerExecutionAction.m: 51";
+		rLen = 0;
+		rLoc = 1479;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 0;
+	};
+	98FE2EA00F91A63500944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2D370F91762A00944D7D /* Actions.xml */;
+		name = "Actions.xml: 30";
+		rLen = 0;
+		rLoc = 1166;
+		rType = 0;
+		vrLen = 1103;
+		vrLoc = 268;
+	};
+	98FE2EA10F91A63500944D7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98FE2EA20F91A63500944D7D /* Categories.xml */;
+		name = "Categories.xml: 3";
+		rLen = 5;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	98FE2EA20F91A63500944D7D /* Categories.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = Categories.xml;
+		path = "/Users/drudge/Development/Mac/MAMP-ControllerSugar/XML Based/TextActions/Categories.xml";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {819, 466}}";
+			sepNavSelRange = "{85, 5}";
+			sepNavVisRange = "{0, 160}";
+		};
+	};
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<action-recipes>
+	<action id="com.conceitedsoftware.TextActions.MAMP-Controller.CSMAMPControllerExecutionStartAction" category="actions.text.MAMP-ControllerSugar">
+		<class>CSMAMPControllerExecutionAction</class>
+		<title>Start</title>
+		<setup>
+			<action>start</action>
+			<CSMAMPPath>/Applications/MAMP/</CSMAMPPath>
+		</setup>
+	</action>
+	
+	<action id="com.conceitedsoftware.TextActions.MAMP-Controller.CSMAMPControllerExecutionStopAction" category="actions.text.MAMP-ControllerSugar">
+		<class>CSMAMPControllerExecutionAction</class>
+		<title>Stop</title>
+		<setup>
+			<action>stop</action>
+			<CSMAMPPath>/Applications/MAMP/</CSMAMPPath>
+		</setup>
+	</action>
+	
+	<action id="com.conceitedsoftware.TextActions.MAMP-Controller.CSMAMPControllerExecutionRestartAction" category="actions.text.MAMP-ControllerSugar">
+		<class>CSMAMPControllerExecutionAction</class>
+		<title>Restart</title>
+		<setup>
+			<action>restart</action>
+			<CSMAMPPath>/Applications/MAMP/</CSMAMPPath>
+		</setup>
+	</action>
+	
+	<action id="com.conceitedsoftware.TextActions.MAMP-Controller.CSMAMPControllerOpenStartPageAction" category="actions.text.MAMP-ControllerSugar">
+		<class>CSMAMPControllerOpenStartPageAction</class>
+		<title>Open Start Page</title>
+		<setup>
+			<page></page>
+			<CSMAMPPath>/Applications/MAMP/</CSMAMPPath>
+		</setup>
+	</action>
+
+</action-recipes>
